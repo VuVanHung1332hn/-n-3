@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f387ab</color>
+    <color name="colorAccent">#E19C60</color>
+    <color name="colorbutton">#FFCEA3</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#f387ab</color>
+    <color name="red">#EC3838</color>
+    <color name="green">#3E9C16</color>
+    <color name="transparent1">#F07BA2</color>
+    <color name="edittextColor">#DDDDDD</color>
+    <color name="grey">#756F6F</color>
+
+    <item name="cardBackground" type="color">#f6f6f6</item>
+    <color name="textColor">#484A4E</color>
+</resources>
